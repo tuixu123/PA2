@@ -21,7 +21,7 @@ const userSchema = mongooese.Schema({
     }
 },
 {
-    timestamp: true,
+    timestamps: true,
 }
 )
 
